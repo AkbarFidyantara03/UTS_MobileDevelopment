@@ -1,0 +1,2 @@
+com/akbar/uts_18090101/BuildConfig.java
+ com.akbar.uts_18090101.BuildConfig
